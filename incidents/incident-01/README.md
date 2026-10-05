@@ -71,4 +71,4 @@ Screenshots documenting the incident investigation and recovery are provided bel
 
 ### 5. Service Restored
 
-![Service Restored](06-service-restored.png)
+![Service Restored](05-service-restored.png)
