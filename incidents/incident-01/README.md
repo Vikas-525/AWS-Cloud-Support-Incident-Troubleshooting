@@ -69,10 +69,6 @@ Screenshots documenting the incident investigation and recovery are provided bel
 
 ![Health Check Timeout](04-health-check-timeout.png)
 
-### 5. Root Cause
-
-![Root Cause](05-root-cause.png)
-
-### 6. Service Restored
+### 5. Service Restored
 
 ![Service Restored](06-service-restored.png)
