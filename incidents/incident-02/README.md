@@ -42,6 +42,8 @@ sudo systemctl start nginx
 
 ---
 
+
+
 ## 📸 Evidence
 
 ### 1. Nginx Service Stopped
