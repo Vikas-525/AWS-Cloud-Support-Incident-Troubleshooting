@@ -40,10 +40,6 @@ Started the Nginx service on the affected EC2 instance:
 ```bash
 sudo systemctl start nginx
 
----
-
-
-
 ## 📸 Evidence
 
 ### 1. Nginx Service Stopped
