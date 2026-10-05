@@ -39,3 +39,37 @@ Started the Nginx service on the affected EC2 instance:
 
 ```bash
 sudo systemctl start nginx
+
+---
+
+## 📸 Evidence
+
+### 1. Nginx Service Stopped
+
+This screenshot shows the Nginx service stopped on the affected backend EC2 instance.
+
+![Nginx Service Stopped](01-nginx-service-stopped.png)
+
+### 2. Customer Symptom
+
+This screenshot shows the customer-facing 502 Bad Gateway error.
+
+![Customer Symptom](02-customer-symptom.png)
+
+### 3. Backend Investigation
+
+This screenshot shows the investigation performed on the affected EC2 instance.
+
+![Backend Investigation](03-backend-investigation.png)
+
+### 4. Targets Recovered
+
+This screenshot shows both backend EC2 targets becoming healthy after the Nginx service was restored.
+
+![Targets Recovered](04-targets-recovered.png)
+
+### 5. Service Restored
+
+This screenshot shows the website working successfully after the issue was resolved.
+
+![Service Restored](05-service-restored.png)
