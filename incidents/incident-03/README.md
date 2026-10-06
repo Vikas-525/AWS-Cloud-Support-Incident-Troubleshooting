@@ -135,7 +135,7 @@ The customer-facing website returned an **HTTP 500 Internal Server Error**.
 
 ### 3. Nginx Logs
 
-![Nginx Logs](03-nginx-logs.png)
+![Nginx Logs](03-nginx-logs-and-http-responses.png)
 
 The Nginx access logs showed requests to the website and the corresponding HTTP 500 responses.
 
