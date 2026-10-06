@@ -31,7 +31,7 @@ The project focuses on practical AWS Cloud Support skills such as infrastructure
 
 The project environment was deployed across multiple Availability Zones to simulate a realistic AWS production-style environment.
 
-![AWS Cloud Support Architecture](architecture/architecture-diagram.png)
+![AWS Cloud Support Architecture](architecture/Architecture%20diagram.jpeg)
 
 ### Architecture Components
 
