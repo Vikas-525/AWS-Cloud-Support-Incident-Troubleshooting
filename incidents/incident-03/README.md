@@ -133,25 +133,17 @@ The customer-facing website returned an **HTTP 500 Internal Server Error**.
 
 ---
 
-### 3. Local Health and 500 Response
+### 3. Nginx Logs
 
-![Local Health and 500 Response](03-local-health-and-500.png)
-
-The `/health` endpoint returned **200 OK**, while the main `/` endpoint returned **500**.
-
----
-
-### 4. Nginx Logs
-
-![Nginx Logs](04-nginx-logs.png)
+![Nginx Logs](03-nginx-logs.png)
 
 The Nginx access logs showed requests to the website and the corresponding HTTP 500 responses.
 
 ---
 
-### 5. Service Restored
+### 4. Service Restored
 
-![Service Restored](05-service-restored.png)
+![Service Restored](04-service-restored.png)
 
 After restoring the Nginx configuration and reloading the service, the website returned successfully.
 
